@@ -3,7 +3,7 @@
 ## Up and running
 
 1. Install Docker for [MacOS](https://hub.docker.com/editions/community/docker-ce-desktop-mac) or [Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows). You'll need to create a Docker account if you don't already have one.dcd
-2. `git clone git://github.com/ScaleSec/vulnado`
+2. `git clone git://github.com/ScaleSec/vulnado`d
 3. `cd vulnado`
 4. `docker-compose up`,,,,
 5. Open a browser and navigate to the client to make sure it's working: [http://localhost:1337](http://localhost:1337)
